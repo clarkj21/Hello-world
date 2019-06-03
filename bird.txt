@@ -1,0 +1,5 @@
+bird.txt
+--------
+Birds are a group of endothemic vertebrates, characterized by feathers, 
+toothless beaked jaws, the laying of hard-shelled eggs, a high metabloic 
+rate, a four-chambered heart, and a lightweight but strong skeleton.
